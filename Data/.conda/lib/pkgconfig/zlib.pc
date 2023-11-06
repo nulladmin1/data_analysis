@@ -1,0 +1,13 @@
+prefix=/home/shreyd/Documents/FBLA/Data/.conda
+exec_prefix=/home/shreyd/Documents/FBLA/Data/.conda
+libdir=/home/shreyd/Documents/FBLA/Data/.conda/lib
+sharedlibdir=/home/shreyd/Documents/FBLA/Data/.conda/lib
+includedir=/home/shreyd/Documents/FBLA/Data/.conda/include
+
+Name: zlib
+Description: zlib compression library
+Version: 1.2.13
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}
