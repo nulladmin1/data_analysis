@@ -1,2 +1,2 @@
-% Graph Evidence (1) Sources:
+Graph Evidence (1) Sources:
 
