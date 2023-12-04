@@ -7,6 +7,6 @@ plt.rcParams['figure.autolayout'] = True
 
 h = df.columns.values
 
-df.set_index('Date').plot()
+df.set_index('Date').plot(title='Washington Electric Vehicle Population Size Growth')
 
 plt.show()
