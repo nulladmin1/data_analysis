@@ -15,4 +15,5 @@ Graph Evidence (2)
 - Made using [this Python script] (https://github.com/nulladmin1/data_analysis/blob/main/Data/iea-data.analyzer.py)
 
 Graph Evidence (3)
-- [Image link]
+- [Image link](https://github.com/nulladmin1/data_analysis/blob/main/Data/hybrid-and-electric-sales-ornlgov_growth-graph.png)
+- Made using [this dataset](https://tedb.ornl.gov/data/) (Table 6.02) (From ornl.gov, Oak Ridge National Laboratory, which is a federally funded 
