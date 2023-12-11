@@ -16,4 +16,17 @@ Graph Evidence (2)
 
 Graph Evidence (3)
 - [Image link](https://github.com/nulladmin1/data_analysis/blob/main/Data/hybrid-and-electric-sales-ornlgov_growth-graph.png)
-- Made using [this dataset](https://tedb.ornl.gov/data/) (Table 6.02) (From ornl.gov, Oak Ridge National Laboratory, which is a federally funded 
+- Made using [this dataset](https://tedb.ornl.gov/data/) (Table 6.02) (From ornl.gov, Oak Ridge National Laboratory, which is a federally funded research and development center)
+- Made using [this Python script](https://github.com/nulladmin1/data_analysis/blob/main/Data/hybrid-and-electric-sales-ornlgov_grapher.analyzer.py)
+
+Pie Chart Evidence (1)
+- [Image link](https://github.com/nulladmin1/data_analysis/blob/main/Data/share_of_electric_cars-1999.png)
+- Made using [this dataset](https://tedb.ornl.gov/data/) (Table 6.02) (From ornl.gov, Oak Ridge National Laboratory, which is a federally funded research and development center)
+- Made using [this Python script](https://github.com/nulladmin1/data_analysis/blob/main/Data/hybrid-and-electric-sales-ornlgov_grapher.analyzer.py)
+
+Pie Chart Evidence (2)
+- [Image link](https://github.com/nulladmin1/data_analysis/blob/main/Data/share_of_electric_cars.png)
+- Made using [this dataset](https://tedb.ornl.gov/data/) (Table 6.02) (From ornl.gov, Oak Ridge National Laboratory, which is a federally funded research and development center)
+- Made using [this Python script](https://github.com/nulladmin1/data_analysis/blob/main/Data/hybrid-and-electric-sales-ornlgov_grapher.analyzer.py)
+
+[https://www.whitehouse.gov/briefing-room/statements-releases/2023/04/17/fact-sheet-biden-harris-administration-announces-new-private-and-public-sector-investments-for-affordable-electric-vehicles/](https://www.whitehouse.gov/briefing-room/statements-releases/2023/04/17/fact-sheet-biden-harris-administration-announces-new-private-and-public-sector-investments-for-affordable-electric-vehicles/)
